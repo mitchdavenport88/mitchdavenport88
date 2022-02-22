@@ -10,22 +10,48 @@
 
 ### Languages and Tools
 <p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/django.png"/></a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/github.png"/></a> 
-  <a href="https://www.heroku.com/home" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a> 
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="50" height="50"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://www.heroku.com/home" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="50" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  </a>
 </p>
 
 ### GitHub Status
