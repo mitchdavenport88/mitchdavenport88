@@ -64,4 +64,9 @@
   </a>
 </p>
 
-<!-- ### Contact Me -->
+### Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mitchdavenport/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="70" height="70"/>
+  </a>
+</p>
